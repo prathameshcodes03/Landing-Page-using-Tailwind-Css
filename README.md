@@ -2,7 +2,7 @@
 
 A modern, responsive landing page built with **Tailwind CSS**, **HTML**, and **JavaScript**. This project showcases contemporary web design practices with a clean, professional interface.
 
-## 📊 Tech Stack
+##  Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-60.6%25-orange?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-23.1%25-yellow?style=flat-square)
@@ -10,7 +10,7 @@ A modern, responsive landing page built with **Tailwind CSS**, **HTML**, and **J
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Fully Responsive Design** - Optimized for all screen sizes (mobile, tablet, desktop)
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
@@ -21,7 +21,7 @@ A modern, responsive landing page built with **Tailwind CSS**, **HTML**, and **J
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Landing-Page-using-Tailwind-Css/
@@ -35,7 +35,7 @@ Landing-Page-using-Tailwind-Css/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A modern web browser
@@ -62,12 +62,16 @@ Landing-Page-using-Tailwind-Css/
 
 Watch the full project preview and walkthrough:
 
-[![Project Preview](https://img.shields.io/badge/Watch%20Video%20Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) 
-*(Add your video link here)*
+
+
+https://github.com/user-attachments/assets/2adf10a7-1d75-463d-a0fb-0639af576e51
+
+
+
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Modifying Colors
 Edit the Tailwind color classes in `index.html` to match your brand palette:
@@ -88,7 +92,7 @@ Edit the Tailwind color classes in `index.html` to match your brand palette:
 
 ---
 
-## 📝 Contributing
+##  Contributing
 
 Contributions are welcome! To contribute:
 
@@ -100,7 +104,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📞 Support
+##  Support
 
 If you have any questions or issues, feel free to:
 - Open an [issue](https://github.com/prathameshcodes03/Landing-Page-using-Tailwind-Css/issues)
@@ -109,4 +113,4 @@ If you have any questions or issues, feel free to:
 
 ---
 
-**Happy Coding! 🎉**
+**Happy Coding! **
